@@ -7,6 +7,8 @@ I founded **Enkefalos** (Greek for *brain*) as the home for my projects.
 ### What I'm working on
 
 - 🏠 **[ESP32 Smart Home Node](https://github.com/Enkefalos-official/esp32-smart-home-mqtt)** — open-source IoT node with MQTT and Home Assistant auto-discovery
+- 🤖 **[diffbot](https://github.com/Enkefalos-official/diffbot-line-follower)** — C++ line-following robot with PID control, odometry and a simulator
+- 🦾 **[Robot Arm Kinematics](https://github.com/Enkefalos-official/robot-arm-kinematics)** — Python FK/IK and trajectory planning for robot arms
 - 🚁 **MADDI** — multi-agent drone swarm concept for disaster search-and-rescue
 - 📅 **[RYDM](https://github.com/Enkefalos-official/RYDM-)** — smart scheduling and productivity app
 
